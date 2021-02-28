@@ -34,33 +34,33 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Track and monitor caffeine
-    description                           : You can add different coffee types for your intake and the app will track your caffeine intake over the day.
-    fontawesome_icon_name                 : chart-line
+  - title                                 : Hiragana and Katakana
+    description                           : Switch between the two Japanese Alphabets with one tap on the Logo.
+    fontawesome_icon_name                 : language
     
-  - title                                 : Better sleep
-    description                           : It helps you reach your caffeine goal in milligrams before going to bed in order to have a restful sleep.
-    fontawesome_icon_name                 : bed
+  - title                                 : Whole alphabet on one Screen
+    description                           : You can look up the Alphabet and see everything you need in one Screen in the table tab.
+    fontawesome_icon_name                 : table
 
-  - title                                 : Different sensitivity levels
-    description                           : You can customize the app by choosing three different sensitivity levels (low, medium, strong).
-    fontawesome_icon_name                 : dumbbell
+  - title                                 : Learning
+    description                           : Start learning the Japanese Alphabet by choosing the Kana-Group you wish to learn.
+    fontawesome_icon_name                 : graduation-cap
 
-  - title                                 : Notification
-    description                           : You get a Notification after reaching your caffeine goal on your iPhone or Apple Watch.
-    fontawesome_icon_name                 : bell
+  - title                                 : Learn by Memory
+    description                           : The first option on your learning journey is by typing in the corresponding Roman characters of a Kana.
+    fontawesome_icon_name                 : question
 
-  - title                                 : High caffeine alert
-    description                           : You get an Alert after having over 400mg of caffeine. (According to the FDA)
-    fontawesome_icon_name                 : exclamation
+  - title                                 : Learn by Drawing
+    description                           : The second option you have is by drawing the corresponding Kana-Character with your finger.
+    fontawesome_icon_name                 : pencil-ruler
   
-  - title                                 : Three languages
-    description                           : The app supports german, english and polish language.
-    fontawesome_icon_name                 : globe-europe
+  - title                                 : Test your knowledge
+    description                           : If you are ready for a challenge then you can test your knowledge in the Quiz-Tab.
+    fontawesome_icon_name                 : file-alt
    
-  - title                                 : NEW! Apple Health Support
-    description                           : Track your caffeine intake in your Apple Health App and see your statistics over time.
-    fontawesome_icon_name                 : heart 
+  - title                                 : Your name in Japanese
+    description                           : You will be greeted with your Japanese name in the app depending on the time.
+    fontawesome_icon_name                 : door-open 
     
 
   - title                                 : Dark theme
