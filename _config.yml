@@ -87,7 +87,7 @@ device_color                              : black                               
 
 body_background_color                     : "#000000"
 
-link_color                                : "#1d63ea"
+link_color                                : "#ffffff"
 
 app_title_color                           : "#ffffff"
 app_price_color                           : "#ffffff"
@@ -96,13 +96,13 @@ app_description_color                     : "#ffffff"
 feature_title_color                       : "#ffffff"
 feature_text_color                        : "#ffffff"
 
-feature_icons_foreground_color            : "#C5B6B6"
-feature_icons_background_color            : "#403632"
+feature_icons_foreground_color            : "#ffffff"
+feature_icons_background_color            : "#ffffff"
 
-social_icons_foreground_color             : "#666666"
-social_icons_background_color             : "#e6e6e6"
+social_icons_foreground_color             : "#ffffff"
+social_icons_background_color             : "#ffffff"
 
-footer_text_color                         : "#666666"
+footer_text_color                         : "#ffffff"
 
 
 
