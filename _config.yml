@@ -58,7 +58,7 @@ features                                  :
     description                           : If you are ready for a challenge then you can test your knowledge in the Quiz-Tab.
     fontawesome_icon_name                 : file-alt
    
-  - title                                 : Time-depended greetings
+  - title                                 : Time-dependent greetings
     description                           : You will be greeted in the app depending on the time.
     fontawesome_icon_name                 : door-open 
     
