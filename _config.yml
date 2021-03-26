@@ -58,8 +58,8 @@ features                                  :
     description                           : If you are ready for a challenge then you can test your knowledge in the Quiz-Tab.
     fontawesome_icon_name                 : file-alt
    
-  - title                                 : Your name in Japanese
-    description                           : You will be greeted with your Japanese name in the app depending on the time.
+  - title                                 : Time-depended greetings
+    description                           : You will be greeted in the app depending on the time.
     fontawesome_icon_name                 : door-open 
     
 
